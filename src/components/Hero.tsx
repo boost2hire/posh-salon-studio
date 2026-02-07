@@ -31,7 +31,7 @@ const Hero = () => {
           style={{ animationDelay: "0.4s" }}
         >
           Posh Salon
-          <span className="block gold-text-gradient">Spa & Makeup Studio</span>
+          <span className="block text-foreground">Spa & Makeup Studio</span>
         </h1>
 
         <p
